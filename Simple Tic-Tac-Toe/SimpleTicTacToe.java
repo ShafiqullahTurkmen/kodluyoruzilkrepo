@@ -2,7 +2,6 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class SimpleTicTacToe {
-    
     public static void main(String[] args) {
         // 1: Create an empty grid array
         String[][] grid = new String[3][3];
